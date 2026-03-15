@@ -89,3 +89,7 @@ rm -rf "$TMPDIR"
 
 - Cron Job ID: `4d7e7af4-5111-40e1-bd3c-636403cbba4a`
 - Archive 目录: `/workspace/archive/tech-news-digest/`
+-e 
+
+---
+Token test: Sun Mar 15 11:58:55 CST 2026
